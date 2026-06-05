@@ -1,1 +1,1 @@
-Testing SonarQube integration
+Testing SonarQube integration.
